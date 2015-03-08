@@ -1,0 +1,512 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-version" content="1.2.4" />
+    <meta name="foundation-version" content="5.4.7" />
+    <meta name="jquery-version" content="2.1.1" />
+    <meta name="modernizr-version" content="2.8.3" />
+
+	<!-- Foundation Theme for RapidWeaver by Joe Workman -->
+
+	
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="UI Design" content="UI designer based in Brighton UK" />
+		<meta name="UX design" content="UX designer based in Brighton UK" />
+		<meta name="Brighton" content="(null)" />
+		<meta name="Jonathan Hammond" content="Product designer based in Brighton UK" />
+		<meta name="Leap Motion" content="(null)" />
+		<meta name="Thalmic Labs Myo" content="(null)" />
+		<meta name="Kinect" content="(null)" />
+		<meta name="Music" content="(null)" />
+		<meta name="DJ" content="(null)" />
+		<meta name="generator" content="RapidWeaver" />
+		
+	
+
+	<title>Fluids Simulation</title>
+
+	<link rel="stylesheet" type="text/css" media="all" href="../../rw_common/themes/foundation/consolidated.css" />
+		
+	<script src="../../rw_common/themes/foundation/modernizr.js"></script>
+
+	<!--[if lt IE 9]>
+	  <script src="../../rw_common/themes/foundation/ie8.js"></script>
+	<![endif]-->
+
+			<link rel='stylesheet' type='text/css' media='all' href='../../rw_common/plugins/stacks/stacks.css' />
+		<!--[if lte IE 7]>
+			<link rel='stylesheet' type='text/css' media='all' href='../../rw_common/plugins/stacks/stacks_ie.css' />
+		<![endif]-->
+		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page34.css' />
+		<script type='text/javascript' charset='utf-8' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
+		<script type='text/javascript' charset='utf-8' src='files/stacks_page_page34.js'></script>
+<meta class="stack version" id="com.joeworkman.stacks.foundation.visibility" name="Visibility" content="1.2.12">
+<meta class="stack version" id="com.joeworkman.stacks.foundation.styles" name="Site Styles" content="1.2.12">
+
+
+<meta class="stack version" id="com.joeworkman.stacks.foundation.topbar" name="Top Bar" content="1.2.12">
+<meta class="stack version" id="com.joeworkman.stacks.foundation.header" name="Header" content="1.2.12">
+<meta class="stack version" id="com.joeworkman.stacks.foundation.animate" name="Animate" content="1.2.12">
+<meta class="stack version" id="com.joeworkman.stacks.foundation.3col" name="3 Column Foundation" content="1.2.12">
+<meta class="stack version" id="com.joeworkman.stacks.foundation.1col" name="1 Column Foundation" content="1.2.12">
+<meta class="stack version" id="com.joeworkman.stacks.foundation.2col" name="2 Column Foundation" content="1.2.12">
+
+	<style type="text/css" media="all">.js-video {
+  height: 0;
+  padding-top: 0px;
+  padding-bottom: 62.5%;
+  margin-bottom: 0px;
+  position: relative;
+  overflow: hidden;
+}
+
+.js-video.widescreen {
+  padding-bottom: 57.25%;
+}
+
+.js-video.vimeo {
+  padding-top: 0;
+}
+
+.js-video embed, .js-video iframe, .js-video object, .js-video video {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}</style>
+<!-- Start Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56377732-1', 'auto');
+  ga('send', 'pageview');
+
+</script><!-- End Google Analytics -->
+</head>
+
+<body class="antialiased">
+
+
+
+<!-- Stacks v1198 --><div id='stacks_out_0_page34' class='stacks_top'><div id='stacks_in_0_page34' class=''><div id='stacks_out_1_page34' class='stacks_out'><div id='stacks_in_1_page34' class='stacks_in com_joeworkman_stacks_foundation_styles_stack'>     <link href='../../rw_common/plugins/stacks/fontawesome/font-awesome.css' rel='stylesheet' type='text/css'> 
+
+
+
+ <!--[if lt IE 9]><meta http-equiv="refresh" content="0; url="><![endif]--> <style>  .myclass{color:#222;}
+body {letter-spacing:0.05em;}  </style> 
+
+</div></div><div id='stacks_out_14863_page34' class='stacks_out'><div id='stacks_in_14863_page34' class='stacks_in html_stack'><div class="js-video [vimeo, widescreen]">
+<iframe src="//player.vimeo.com/video/74211044?title=0&byline=0&portrait=0" width="700" height="438" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div></div></div><div id='stacks_out_15406_page34' class='stacks_out'><div id='stacks_in_15406_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_15406_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_15406_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_15406_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_15408_page34' class='stacks_out'><div id='stacks_in_15408_page34' class='stacks_in com_joeworkman_stacks_foundation_topbar_stack'>
+
+<!-- Foundation Top Bar Menu stake-nomin -->
+
+
+<div class="top-bar-wrapper  font-family-h1     solid darkAccents     menu-align-centered zone-align-left">
+    <nav class="top-bar" data-topbar data-options="is_hover:true;custom_back_text:true;back_text:Back;mobile_show_parent_link:true;scrolltop:false;">
+        <ul class="title-area title-area-site-setup">
+            <li class="name collapse">
+                
+                    <a href="http://www.justaddmusicmedia.com/">
+                        
+                        
+                    </a>
+                
+
+                
+            </li>
+            <li class="toggle-topbar menu-icon">
+                <a href="#">
+                    <span>Menu</span>
+                </a>
+            </li>
+        </ul>
+
+        <section class="top-bar-section menu-rw">
+
+
+
+
+
+
+
+    <ul class="menu dropdown"><li class="has-dropdown"><a href="../../" rel="">Home</a></li><li class="has-dropdown"><a href="../../page3/" rel="">Temp</a></li><li class="has-dropdown"><a href="../../about/" rel="">About</a></li><li class="active has-dropdown"><a href="../../work/">Work</a></li><li class="has-dropdown"><a href="../../contact/" rel="">Contact</a></li></ul>
+
+
+
+
+
+
+
+
+
+
+        </section>
+    </nav>
+</div>
+
+
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div><div id='stacks_out_25152_page34' class='stacks_out'><div id='stacks_in_25152_page34' class='stacks_in com_joeworkman_stacks_foundation_animate_stack'>
+
+<div class="wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="200ms" data-wow-offset="0" data-wow-iteration="1"> <div id='stacks_out_25154_page34' class='stacks_out'><div id='stacks_in_25154_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_25154_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_25154_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_25154_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_25156_page34' class='stacks_out'><div id='stacks_in_25156_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_25158_page34' class='stacks_out'><div id='stacks_in_25158_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h1 class="text-left   ">Fluid Simulation</h1>
+
+</div></div><div id='stacks_out_25161_page34' class='stacks_out'><div id='stacks_in_25161_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h4 class="text-left   ">Use the Leap Motion to control fluids on screen</h4>
+
+</div></div></div></div>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div>
+
+</div></div><div id='stacks_out_10370_page34' class='stacks_out'><div id='stacks_in_10370_page34' class='stacks_in com_joeworkman_stacks_foundation_3col_stack'>
+
+<div class="row collapse"><div   class='columns small-12   medium-4   '><div id='stacks_out_14868_page34' class='stacks_out'><div id='stacks_in_14868_page34' class='stacks_in html_stack'><div class="js-video [vimeo, widescreen]">
+<iframe src="//player.vimeo.com/video/29601398?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div></div></div></div><div   class='columns small-12   medium-4   '><div id='stacks_out_14873_page34' class='stacks_out'><div id='stacks_in_14873_page34' class='stacks_in html_stack'><div class="js-video [vimeo, widescreen]">
+<iframe src="//player.vimeo.com/video/29560026?title=0&byline=0&portrait=0" width="700" height="438" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div></div></div></div><div   class='columns small-12   medium-4   '><div id='stacks_out_14878_page34' class='stacks_out'><div id='stacks_in_14878_page34' class='stacks_in html_stack'><div class="js-video [vimeo, widescreen]">
+<iframe src="//player.vimeo.com/video/29456467?title=0&byline=0&portrait=0" width="700" height="368" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div></div></div></div></div>
+
+</div></div><div id='stacks_out_25196_page34' class='stacks_out'><div id='stacks_in_25196_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_25196_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_25196_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_25196_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_25198_page34' class='stacks_out'><div id='stacks_in_25198_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_25200_page34' class='stacks_out'><div id='stacks_in_25200_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_25202_page34' class='stacks_out'><div id='stacks_in_25202_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h3 class="text-left  custom ">BRIEF</h3>
+
+</div></div></div></div>
+
+</div></div><div id='stacks_out_25205_page34' class='stacks_out'><div id='stacks_in_25205_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_25207_page34' class='stacks_out'><div id='stacks_in_25207_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h4 class="text-left   ">What did I Create it?</h4>
+
+</div></div></div></div>
+
+</div></div><div id='stacks_out_25210_page34' class='stacks_out'><div id='stacks_in_25210_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_25212_page34' class='stacks_out'><div id='stacks_in_25212_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h5 class="text-left   ">After I was give the go ahead to demostrate the Leap Motion prototype I designed a fluid simulation application to demostrate at the Brighton Digital Festival. The application was designed to quickly demostrate the 10 finger tracking via a simple but beautiful Open CL liquid simulation.</h5>
+
+</div></div></div></div>
+
+</div></div></div></div>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div><div id='stacks_out_7008_page34' class='stacks_out'><div id='stacks_in_7008_page34' class='stacks_in com_joeworkman_stacks_foundation_animate_stack'>
+
+<div class="wow fadeInUp" data-wow-duration="1250ms" data-wow-delay="800ms" data-wow-offset="100" data-wow-iteration="1"> <div id='stacks_out_14071_page34' class='stacks_out'><div id='stacks_in_14071_page34' class='stacks_in image_stack'><div class='centered_image' ><img class='imageStyle' src='files/stacks_image_14072.png' width='2880' height='1630' alt='Stacks Image 14072' /></div></div></div></div>
+
+</div></div><div id='stacks_out_11946_page34' class='stacks_out'><div id='stacks_in_11946_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_11946_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_11946_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_11946_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_11948_page34' class='stacks_out'><div id='stacks_in_11948_page34' class='stacks_in com_joeworkman_stacks_foundation_2col_stack'>
+
+<div class="row collapse"><div   class='columns small-12   medium-6   '><div id='stacks_out_11950_page34' class='stacks_out'><div id='stacks_in_11950_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_11952_page34' class='stacks_out'><div id='stacks_in_11952_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_11954_page34' class='stacks_out'><div id='stacks_in_11954_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h3 class="text-left  custom ">OPEN SOURCED</h3>
+
+</div></div></div></div>
+
+</div></div><div id='stacks_out_11957_page34' class='stacks_out'><div id='stacks_in_11957_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_11959_page34' class='stacks_out'><div id='stacks_in_11959_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h4 class="text-left   ">Download the Build and Source Code</h4>
+
+</div></div></div></div>
+
+</div></div><div id='stacks_out_11962_page34' class='stacks_out'><div id='stacks_in_11962_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_11964_page34' class='stacks_out'><div id='stacks_in_11964_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h5 class="text-left   ">Run in Quartz Composer and custom your own preferences</h5>
+
+</div></div></div></div>
+
+</div></div></div></div>
+
+</div></div></div><div   class='columns small-12   medium-6   '><div id='stacks_out_15332_page34' class='stacks_out'><div id='stacks_in_15332_page34' class='stacks_in com_joeworkman_stacks_foundation_visibility_stack'>
+
+<div class="hide-for-small-only"> <div id='stacks_out_11968_page34' class='stacks_out'><div id='stacks_in_11968_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_11968_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_11968_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_11968_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_11970_page34' class='stacks_out'><div id='stacks_in_11970_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h1 class="text-center   "><i class="fa fa-apple"></i></h1>
+
+</div></div><div id='stacks_out_11973_page34' class='stacks_out'><div id='stacks_in_11973_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h6 class="text-center   ">Requires OSX 10.8+</h6>
+
+</div></div><div id='stacks_out_11976_page34' class='stacks_out'><div id='stacks_in_11976_page34' class='stacks_in com_stacks4stacks_stacks_hoverbox_stack'><div id="hoverBoxWrapperstacks_in_11976_page34" class="hoverBoxWrapper">
+
+	<div id="hoverBoxLinkstacks_in_11976_page34" class="hoverBoxLink">
+	 
+	        <a href="http://github.com/justaddmusic/iBeacons-Rapid-Prototyping" rel="external"></a>
+	 
+	</div>
+
+	
+	<div id="hoverBoxStaticstacks_in_11976_page34" class="hoverBoxStatic static-bg0stacks_in_11976_page34"><div id='stacks_out_11978_page34' class='stacks_out'><div id='stacks_in_11978_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_11978_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_11978_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_11978_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_11980_page34' class='stacks_out'><div id='stacks_in_11980_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h1 class="text-center   "><i class="fa fa-cloud-download"></i></h1>
+
+</div></div><div id='stacks_out_11983_page34' class='stacks_out'><div id='stacks_in_11983_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h6 class="text-center   ">Download the App</h6>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div>
+
+	
+	<div id="hoverBoxRolloverstacks_in_11976_page34" class="hoverBoxRollover hover-bg1stacks_in_11976_page34"><div id='stacks_out_11987_page34' class='stacks_out'><div id='stacks_in_11987_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_11987_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_11987_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_11987_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_11989_page34' class='stacks_out'><div id='stacks_in_11989_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h1 class="text-center  alt "><i class="fa fa-cloud-download"></i></h1>
+
+</div></div><div id='stacks_out_11992_page34' class='stacks_out'><div id='stacks_in_11992_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h6 class="text-center  alt ">Download the App</h6>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div>
+
+</div><!--/hoverBoxWrapper-->
+
+<!--[if lte IE 8]>
+<style type="text/css">
+#hoverBoxRolloverstacks_in_11976_page34 {
+	display: none;
+}
+
+#hoverBoxWrapperstacks_in_11976_page34:hover #hoverBoxRolloverstacks_in_11976_page34 {
+	display: block;
+}
+</style>
+<![endif]--></div></div><div id='stacks_out_11995_page34' class='stacks_out'><div id='stacks_in_11995_page34' class='stacks_in com_stacks4stacks_stacks_hoverbox_stack'><div id="hoverBoxWrapperstacks_in_11995_page34" class="hoverBoxWrapper">
+
+	<div id="hoverBoxLinkstacks_in_11995_page34" class="hoverBoxLink">
+	 
+	        <a href="http://github.com/justaddmusic/iBeacons-Rapid-Prototyping" rel="external"></a>
+	 
+	</div>
+
+	
+	<div id="hoverBoxStaticstacks_in_11995_page34" class="hoverBoxStatic static-bg0stacks_in_11995_page34"><div id='stacks_out_11997_page34' class='stacks_out'><div id='stacks_in_11997_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_11997_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_11997_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_11997_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_11999_page34' class='stacks_out'><div id='stacks_in_11999_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h1 class="text-center   "><i class="fa fa-github"></i></h1>
+
+</div></div><div id='stacks_out_12002_page34' class='stacks_out'><div id='stacks_in_12002_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h6 class="text-center   ">Source Code</h6>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div>
+
+	
+	<div id="hoverBoxRolloverstacks_in_11995_page34" class="hoverBoxRollover hover-bg1stacks_in_11995_page34"><div id='stacks_out_12006_page34' class='stacks_out'><div id='stacks_in_12006_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_12006_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_12006_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_12006_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_12008_page34' class='stacks_out'><div id='stacks_in_12008_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h1 class="text-center  alt "><i class="fa fa-github"></i></h1>
+
+</div></div><div id='stacks_out_12011_page34' class='stacks_out'><div id='stacks_in_12011_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h6 class="text-center  alt ">Source Code</h6>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div>
+
+</div><!--/hoverBoxWrapper-->
+
+<!--[if lte IE 8]>
+<style type="text/css">
+#hoverBoxRolloverstacks_in_11995_page34 {
+	display: none;
+}
+
+#hoverBoxWrapperstacks_in_11995_page34:hover #hoverBoxRolloverstacks_in_11995_page34 {
+	display: block;
+}
+</style>
+<![endif]--></div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div>
+
+</div></div></div></div>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div><div id='stacks_out_19412_page34' class='stacks_out'><div id='stacks_in_19412_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_19412_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_19412_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_19412_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_19414_page34' class='stacks_out'><div id='stacks_in_19414_page34' class='stacks_in com_joeworkman_stacks_foundation_2col_stack'>
+
+<div class="row collapse"><div   class='columns small-12   medium-6   '><div id='stacks_out_19416_page34' class='stacks_out'><div id='stacks_in_19416_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_19418_page34' class='stacks_out'><div id='stacks_in_19418_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_19420_page34' class='stacks_out'><div id='stacks_in_19420_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h3 class="text-left  custom ">SOCIAL</h3>
+
+</div></div></div></div>
+
+</div></div><div id='stacks_out_19423_page34' class='stacks_out'><div id='stacks_in_19423_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_19425_page34' class='stacks_out'><div id='stacks_in_19425_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h4 class="text-left   ">Response</h4>
+
+</div></div></div></div>
+
+</div></div><div id='stacks_out_19428_page34' class='stacks_out'><div id='stacks_in_19428_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_19430_page34' class='stacks_out'><div id='stacks_in_19430_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h5 class="text-left   ">The application received a huge whoa factor here in Brighton and also caught the attention of the currently President of Leap Motion Andy Miller an ex VP at Apple.</h5>
+
+</div></div></div></div>
+
+</div></div></div></div>
+
+</div></div></div><div   class='columns small-12   medium-6   '><div id='stacks_out_16931_page34' class='stacks_out'><div id='stacks_in_16931_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_19463_page34' class='stacks_out'><div id='stacks_in_19463_page34' class='stacks_in html_stack'><blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en"><p>Amazing! Check it. RT <a href="https://twitter.com/jonathanhammond">@jonathanhammond</a>: Drawing Liquids with Leap Motion <a href="https://twitter.com/hashtag/leapmotion?src=hash">#leapmotion</a> <a href="https://twitter.com/hashtag/BDF2013?src=hash">#BDF2013</a> <a href="https://t.co/LrqRn988sG">https://t.co/LrqRn988sG</a> <a href="http://t.co/S3vGXFxPg7">http://t.co/S3vGXFxPg7</a></p>&mdash; Andrew Miller (@amiller) <a href="https://twitter.com/amiller/status/377508312046391296">September 10, 2013</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></div><div id='stacks_out_19470_page34' class='stacks_out'><div id='stacks_in_19470_page34' class='stacks_in html_stack'><blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en"><p>Can&#39;t wait for more! RT <a href="https://twitter.com/jonathanhammond">@jonathanhammond</a> Drawing Liquids with Leap Motion <a href="https://twitter.com/hashtag/leapmotion?src=hash">#leapmotion</a> <a href="https://twitter.com/hashtag/BDF2013?src=hash">#BDF2013</a> <a href="http://t.co/5E1Ua8M3u0">http://t.co/5E1Ua8M3u0</a> <a href="http://t.co/wrymfs20gl">http://t.co/wrymfs20gl</a></p>&mdash; LeapMotion (@LeapMotion) <a href="https://twitter.com/LeapMotion/status/377512011703521282">September 10, 2013</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></div></div></div>
+
+</div></div></div></div>
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div><div id='stacks_out_15156_page34' class='stacks_out'><div id='stacks_in_15156_page34' class='stacks_in com_joeworkman_stacks_foundation_1col_stack'>
+
+<div class="row collapse "><div class=' columns small-12    medium-12     '><div id='stacks_out_15251_page34' class='stacks_out'><div id='stacks_in_15251_page34' class='stacks_in com_stacks4stacks_stacks_usefulstack_stack'><!-- UsefulStack stack by Will Woodgate. Visit http://stacks4stacks.com for more information -->
+
+<div id="UsefulStackWrapperstacks_in_15251_page34" class="UsefulStackWrapper">
+	<div id="UsefulStackstacks_in_15251_page34" class="UsefulStack">
+		<div id="UsefulStackInnerstacks_in_15251_page34" class="MyUsefulStack" lang="en" title="">
+			<div id='stacks_out_15253_page34' class='stacks_out'><div id='stacks_in_15253_page34' class='stacks_in com_rapidweavercentral_stacks_timelinething_stack'><!-- TimelineThing by RapidWeaver Central. Visit http://www.weaverthings.com for more information. -->
+<div id="timelinethingstacks_in_15253_page34" class="timelinething">
+	<div class="datelabelThing">11th Jan 2013</div>    
+		<div class="nub open_stacks_in_15253_page34"></div></a> 
+		<div id="slidethingWrapper_stacks_in_15253_page34">
+				
+				<div id="slidethingTrigger_stacks_in_15253_page34" class=" static-bg0stacks_in_15253_page34"><a href="#slidethingTrigger_stacks_in_15253_page34"></a><div id='stacks_out_15266_page34' class='stacks_out'><div id='stacks_in_15266_page34' class='stacks_in com_joeworkman_stacks_foundation_header_stack'>
+
+<h4 class="text-left   ">Released the source code to GitHub created website</h4>
+
+</div></div></div>
+				
+			<div id="slidethingContainer_stacks_in_15253_page34" class="content-bg0stacks_in_15253_page34"><div class='slice empty out'><div class='slice empty in'></div></div></div>
+		</div>
+</div><!-- End TimelineThing -->
+
+</div></div>
+		</div>
+	</div><!--/UsefulStack-->
+</div><!--/UsefulStackWrapper--></div></div></div></div>
+
+</div></div></div></div>
+
+
+
+<!-- End of Stacks Content -->
+
+
+
+
+<script src="../../rw_common/themes/foundation/foundation.js"></script>
+
+
+<!--[if lt IE 9]>
+  <script src="../../rw_common/themes/foundation/ie8rem.js"></script>
+<![endif]-->
+
+<!-- Start LiveStats -->
+<script>
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+  d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+  insertBefore(d,q)}(window,document,'script','_gs');
+
+  _gs('GSN-294396-S');
+</script><!-- End LiveStats -->
+</body>
+</html>

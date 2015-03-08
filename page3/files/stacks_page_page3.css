@@ -1,0 +1,3315 @@
+  
+#stacks_in_13050_page3>.row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_13050_page3>.row.collapse{padding-left:0;padding-right:0}#stacks_in_13050_page3>.maxwidth{max-width:500px}#stacks_in_13050_page3>.hide-overflow{overflow:hidden!important}
+
+
+#stacks_in_13052_page3>.row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_13052_page3>.row>.columns{margin-top:0.00rem}
+#hoverBoxWrapperstacks_in_13054_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13054_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13054_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13054_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13054_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13054_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13054_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13054_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13054_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13054_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13054_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13054_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13054_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13054_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13054_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13054_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13054_page3 a:link,
+#hoverBoxLinkstacks_in_13054_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13054_page3:hover #hoverBoxRolloverstacks_in_13054_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13056_page3 {
+	background-color: #0D0D0D;
+}
+#UsefulStackWrapperstacks_in_13059_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13059_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 0%;
+	margin-top: 20%;
+	margin-left: 0%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13059_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13062_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13062_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13062_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13062_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13062_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13062_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13062_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13062_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13062_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13062_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13062_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13062_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13062_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13062_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13062_page3 {
+	background: url(../files/rollover_local_image_13062.jpg);
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13062_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13062_page3 a:link,
+#hoverBoxLinkstacks_in_13062_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13062_page3:hover #hoverBoxRolloverstacks_in_13062_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13079_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13079_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13079_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13082_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13082_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13082_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13082_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13082_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13082_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13082_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13082_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13082_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13082_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13082_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13082_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13082_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13082_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13082_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13082_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13082_page3 a:link,
+#hoverBoxLinkstacks_in_13082_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13082_page3:hover #hoverBoxRolloverstacks_in_13082_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13086_page3 {
+	background-color: #000000;
+}
+#UsefulStackWrapperstacks_in_13089_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13089_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13089_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13092_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13092_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13092_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13092_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13092_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13092_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13092_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13092_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13092_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13092_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13092_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13092_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13092_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13092_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13092_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13092_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13092_page3 a:link,
+#hoverBoxLinkstacks_in_13092_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13092_page3:hover #hoverBoxRolloverstacks_in_13092_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13097_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13097_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13097_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+
+#stacks_in_13099_page3>.row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_13099_page3>.row>.columns{margin-top:0.00rem}
+#hoverBoxWrapperstacks_in_13101_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13101_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13101_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13101_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13101_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13101_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13101_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13101_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13101_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13101_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13101_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13101_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13101_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13101_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13101_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13101_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13101_page3 a:link,
+#hoverBoxLinkstacks_in_13101_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13101_page3:hover #hoverBoxRolloverstacks_in_13101_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13107_page3 {
+	background-color: #000000;
+}
+#UsefulStackWrapperstacks_in_13110_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13110_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13110_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13123_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13123_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13123_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13123_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13123_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13123_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13123_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13123_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13123_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13123_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13123_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13123_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13123_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13123_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13123_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13123_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13123_page3 a:link,
+#hoverBoxLinkstacks_in_13123_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13123_page3:hover #hoverBoxRolloverstacks_in_13123_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13125_page3 {
+	background-color: #F0F0F0;
+}
+#UsefulStackWrapperstacks_in_13128_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13128_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13128_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13131_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13131_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13131_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13131_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13131_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13131_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13131_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13131_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13131_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13131_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13131_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13131_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13131_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13131_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13131_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13131_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13131_page3 a:link,
+#hoverBoxLinkstacks_in_13131_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13131_page3:hover #hoverBoxRolloverstacks_in_13131_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13133_page3 {
+	background-color: #0D0D0D;
+}
+#UsefulStackWrapperstacks_in_13136_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13136_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13136_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13139_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13139_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13139_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13139_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13139_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13139_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13139_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13139_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13139_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13139_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13139_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13139_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13139_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13139_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13139_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13139_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13139_page3 a:link,
+#hoverBoxLinkstacks_in_13139_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13139_page3:hover #hoverBoxRolloverstacks_in_13139_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13152_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13152_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13152_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+
+#stacks_in_13154_page3>.row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_13154_page3>.row>.columns{margin-top:0.00rem}
+#hoverBoxWrapperstacks_in_13156_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13156_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13156_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13156_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13156_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13156_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13156_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13156_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13156_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13156_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13156_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13156_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13156_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13156_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13156_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13156_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13156_page3 a:link,
+#hoverBoxLinkstacks_in_13156_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13156_page3:hover #hoverBoxRolloverstacks_in_13156_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13158_page3 {
+	background-color: #000000;
+}
+#UsefulStackWrapperstacks_in_13161_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13161_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13161_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13164_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13164_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13164_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13164_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13164_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13164_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13164_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13164_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13164_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13164_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13164_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13164_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13164_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13164_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13164_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13164_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13164_page3 a:link,
+#hoverBoxLinkstacks_in_13164_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13164_page3:hover #hoverBoxRolloverstacks_in_13164_page3 {
+	opacity: 0.85;
+}
+
+#stacks_in_13166_page3 {
+	background-color: #000000;
+}
+#UsefulStackWrapperstacks_in_13188_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13188_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13188_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13191_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13191_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13191_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13191_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13191_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13191_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13191_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13191_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13191_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13191_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13191_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13191_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13191_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13191_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13191_page3 {
+	background: url(../files/rollover_local_image_13191.jpg);
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13191_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13191_page3 a:link,
+#hoverBoxLinkstacks_in_13191_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13191_page3:hover #hoverBoxRolloverstacks_in_13191_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13200_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13200_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13200_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13203_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13203_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13203_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13203_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13203_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13203_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13203_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13203_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13203_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13203_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13203_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13203_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13203_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13203_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13203_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13203_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13203_page3 a:link,
+#hoverBoxLinkstacks_in_13203_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13203_page3:hover #hoverBoxRolloverstacks_in_13203_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13223_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13223_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13223_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+
+#stacks_in_13225_page3>.row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_13225_page3>.row>.columns{margin-top:0.00rem}
+#hoverBoxWrapperstacks_in_13227_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13227_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13227_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13227_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13227_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13227_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13227_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13227_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13227_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13227_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13227_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13227_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13227_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13227_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13227_page3 {
+	background: url(../files/rollover_local_image_13227.jpg);
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13227_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13227_page3 a:link,
+#hoverBoxLinkstacks_in_13227_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13227_page3:hover #hoverBoxRolloverstacks_in_13227_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13234_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13234_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13234_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13237_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13237_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13237_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13237_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13237_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13237_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13237_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13237_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13237_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13237_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13237_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13237_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13237_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13237_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13237_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13237_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13237_page3 a:link,
+#hoverBoxLinkstacks_in_13237_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13237_page3:hover #hoverBoxRolloverstacks_in_13237_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13239_page3 {
+	background-color: #F0F0F0;
+}
+#UsefulStackWrapperstacks_in_13256_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13256_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13256_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13261_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13261_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13261_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13261_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13261_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13261_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13261_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13261_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13261_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13261_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13261_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13261_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13261_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13261_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13261_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13261_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13261_page3 a:link,
+#hoverBoxLinkstacks_in_13261_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13261_page3:hover #hoverBoxRolloverstacks_in_13261_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13265_page3 {
+	background-color: #F0F0F0;
+}
+#UsefulStackWrapperstacks_in_13268_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13268_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13268_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13271_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13271_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13271_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13271_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13271_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13271_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13271_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13271_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13271_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13271_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13271_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13271_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13271_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13271_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13271_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13271_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13271_page3 a:link,
+#hoverBoxLinkstacks_in_13271_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13271_page3:hover #hoverBoxRolloverstacks_in_13271_page3 {
+	opacity: 0.85;
+}
+
+#stacks_in_13273_page3 {
+	background-color: #E4E4E4;
+}
+#UsefulStackWrapperstacks_in_13279_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13279_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13279_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+
+#stacks_in_13281_page3>.row{padding-top:0.00rem;padding-bottom:0.00rem}#stacks_in_13281_page3>.row>.columns{margin-top:0.00rem}
+#hoverBoxWrapperstacks_in_13288_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13288_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13288_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13288_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13288_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13288_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13288_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13288_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13288_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13288_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13288_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13288_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13288_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13288_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13288_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13288_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13288_page3 a:link,
+#hoverBoxLinkstacks_in_13288_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13288_page3:hover #hoverBoxRolloverstacks_in_13288_page3 {
+	opacity: 0.75;
+}
+#UsefulStackWrapperstacks_in_13298_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13298_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13298_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
+#hoverBoxWrapperstacks_in_13301_page3 {
+	height: auto;
+	min-height: 0px;
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	z-index: 1;
+}
+
+#hoverBoxWrapperstacks_in_13301_page3 img {
+	max-width: 100%;
+	height: auto;
+}
+
+#hoverBoxStaticstacks_in_13301_page3 {
+	position: relative;
+	display: block;
+	z-index: 8;
+	width: 100%;
+}
+
+.static-bg0stacks_in_13301_page3 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_13301_page3 {
+	background: #333333;
+}
+
+.static-bg2stacks_in_13301_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_13301_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_13301_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_13301_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxRolloverstacks_in_13301_page3 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	z-index: 10;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	
+	-moz-transition: opacity 250ms linear;
+	-webkit-transition: opacity 250ms linear;
+	transition: opacity 250ms linear;
+}
+
+.hover-bg0stacks_in_13301_page3 {
+	background: transparent;
+}
+
+.hover-bg1stacks_in_13301_page3 {
+	background: #000000;
+}
+
+.hover-bg2stacks_in_13301_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.hover-bg3stacks_in_13301_page3 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.hover-bg4stacks_in_13301_page3 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.hover-bg5stacks_in_13301_page3 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: Center Center;
+}
+
+#hoverBoxLinkstacks_in_13301_page3 a:link,
+#hoverBoxLinkstacks_in_13301_page3 a:hover {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 30;
+	height: 100%;
+	width: 100%;
+	background: url(../files/bg_fill.gif) repeat;
+}
+
+/* Where the magic happens */
+
+#hoverBoxWrapperstacks_in_13301_page3:hover #hoverBoxRolloverstacks_in_13301_page3 {
+	opacity: 0.75;
+}
+
+#stacks_in_13303_page3 {
+	background-color: #0D0D0D;
+}
+#UsefulStackWrapperstacks_in_13306_page3 {
+	margin: 0 auto;
+	min-width: 0px;
+	max-width: 2000px;
+	
+	min-height: 0px;
+	max-height: 2000px;
+	overflow: hidden;
+}
+
+#UsefulStackstacks_in_13306_page3 {
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+	
+	margin-bottom: 20%;
+	margin-top: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+	
+	display: block;
+}
+
+@media screen and (max-width: 100px) {
+	#UsefulStackstacks_in_13306_page3 {
+		display: none;
+	}
+}
+
+
+
+
+
